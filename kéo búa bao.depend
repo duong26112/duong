@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1744115963 source:c:\users\asus\documents\kéo búa bao\game.cpp
+	"game.h"
+	<iostream>
+	<ctime>
+
+1744115507 c:\users\asus\documents\kéo búa bao\game.h
+	<SDL.h>
+	"constants.h"
+	"texture manager.h"
+
+1744113620 c:\users\asus\documents\kéo búa bao\constants.h
+
+1744113620 c:\users\asus\documents\kéo búa bao\texture manager.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1744113598 source:c:\users\asus\documents\kéo búa bao\main.cpp
+	"game.h"
+
+1744113633 source:c:\users\asus\documents\kéo búa bao\texture manager.cpp
+	"texture manager.h"
+
